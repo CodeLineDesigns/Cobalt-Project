@@ -1,2 +1,2 @@
 # Cobalt-Project
-This is a Branch of the Master Central team sharing hub for the Cobalt-Project code. This shows the difference in files when creating a clone of the Master in the form of Branch sections.
+Central team sharing hub for all wire-frame code, possible layouts, and final project of the CoBALT Program website.
